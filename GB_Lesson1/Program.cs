@@ -6,7 +6,9 @@ namespace GB_Lesson1
     {
         static void Main()
         {
-            Console.WriteLine("Hello world!");
+            Console.Write("Введите свое имя:");
+            var userName = Console.ReadLine();
+            Console.WriteLine($"Привет, {userName}, сегодня {DateTime.Now}");
         }
     }
 }
