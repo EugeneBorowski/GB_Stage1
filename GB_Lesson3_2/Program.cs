@@ -30,5 +30,4 @@ namespace GB_Lesson3_2
             }
         }
     }
-    }
 }
