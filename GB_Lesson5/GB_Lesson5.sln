@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_Lesson5_1", "GB_Lesson5_1\GB_Lesson5_1.csproj", "{52AFC5BB-9FB6-4283-B1DA-43D73200D13A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB_Lesson5_1", "GB_Lesson5_1\GB_Lesson5_1.csproj", "{52AFC5BB-9FB6-4283-B1DA-43D73200D13A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_Lesson5_2", "GB_Lesson5_2\GB_Lesson5_2.csproj", "{12C54260-DAC7-41A4-8812-6FD75F906C8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB_Lesson5_2", "GB_Lesson5_2\GB_Lesson5_2.csproj", "{12C54260-DAC7-41A4-8812-6FD75F906C8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_Lesson5_3", "GB_Lesson5_3\GB_Lesson5_3.csproj", "{559BCDCA-945E-4F9D-ACE0-FF957014D8CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GB_Lesson5_3", "GB_Lesson5_3\GB_Lesson5_3.csproj", "{559BCDCA-945E-4F9D-ACE0-FF957014D8CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8AB6394F-D52D-48F2-B464-86F9CA8968AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{24E7AB9E-B761-43E4-97BE-4C6B31FFA04E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{559BCDCA-945E-4F9D-ACE0-FF957014D8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{559BCDCA-945E-4F9D-ACE0-FF957014D8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{559BCDCA-945E-4F9D-ACE0-FF957014D8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB6394F-D52D-48F2-B464-86F9CA8968AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB6394F-D52D-48F2-B464-86F9CA8968AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB6394F-D52D-48F2-B464-86F9CA8968AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB6394F-D52D-48F2-B464-86F9CA8968AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E7AB9E-B761-43E4-97BE-4C6B31FFA04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E7AB9E-B761-43E4-97BE-4C6B31FFA04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E7AB9E-B761-43E4-97BE-4C6B31FFA04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E7AB9E-B761-43E4-97BE-4C6B31FFA04E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
